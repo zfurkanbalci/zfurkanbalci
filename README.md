@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zfurkanbalci/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zfurkanbalci/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zfurkanbalci/) 
 
@@ -31,4 +32,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zfurkanbalci&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21lapqhoqmhxupdefz77d5lta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

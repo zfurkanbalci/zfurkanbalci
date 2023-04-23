@@ -1,4 +1,5 @@
 # 💫 About Me:
+### <div align="center">I'm Furkan, a AI & algorithm developer 👨‍💻 working as Lecturer since 2020 🚀</div>  
 🔭 I’m currently working on creating my own Optimization Algorithm<br>🌱 I’m currently learning R & Statistical Features Extraction<br>💬 Ask me about Python & PhD
 
 

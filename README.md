@@ -1,6 +1,15 @@
 # 💫 About Me:
 ### <div align="center">I'm Furkan, a AI & algorithm developer 👨‍💻 working as Lecturer since 2020 🚀</div>  
-🔭 I’m currently working on creating my own Optimization Algorithm<br>🌱 I’m currently learning R & Statistical Features Extraction<br>💬 Ask me about Python & PhD
+- 🔭 I’m currently working on on creating my own Optimization Algorithm  
+  
+
+- 🌱 I’m currently learning R & Statistical Features Extraction  
+  
+
+- ❓ Ask me about anything related to algorithm design & LSTM structure  
+  
+
+- ⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:

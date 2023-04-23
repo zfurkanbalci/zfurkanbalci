@@ -9,11 +9,10 @@
 - ❓ Ask me about anything related to algorithm design & LSTM structure  
   
 
-- ⚡ Fun fact: I use tabs over spaces
 
 
 
-## Connect with me  
+## 👨‍💻 Connect with me:
 <div align="center">
 <a href="https://github.com/zfurkanbalci" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -106,7 +105,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=zfurkanbalci&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![](https://visitcount.itsvg.in/api?id=zfurkanbalci&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Listen with Me:
+## 🎵 Listen with Me:
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21lapqhoqmhxupdefz77d5lta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 <br/>  
